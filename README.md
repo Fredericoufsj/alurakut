@@ -1,3 +1,26 @@
+<h1>  🚀 Alurakut </h1> 
+
+<p>Projeto desenvolvido durante a imersão React 3a edição da Alura. A idéia é recriar a saudosa rede social Orkut (com algumas modificações, é claro!).</p>
+
+ <h2>🛠 Linguagens e Ferramentas:</h2>
+<ul><li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>React</li>
+</ul>
+ 
+ 
+<h2>📝Conhecimentos adquiridos:</h2>
+ 
+ <p>...</p>
+ 
+ <img src="./src/img/readme-img1.png" alt="imagem do site">
+ 
+ 
+ 
+ ========
+
+
 # Example app with styled-components
 
 This example features how you use a different styling solution than [styled-jsx](https://github.com/vercel/styled-jsx) that also supports universal styles. That means we can serve the required styles for the first render within the HTML and then load the rest in the client. In this case we are using [styled-components](https://github.com/styled-components/styled-components).
